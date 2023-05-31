@@ -123,6 +123,6 @@ bash
 ## Support
 - - - - - - ![Logo](https://media4.giphy.com/media/3oEdvaba4h0I536VYQ/200.webp?cid=ecf05e47o5z0127gpfu3lsmk34tasoem41emhc3j9jad6k11&ep=v1_gifs_search&rid=200.webp&ct=g)
 
-For support, email charlie62042@gmail.com or join our Slack channel.
+For support, email parth.dodiya900@gmail.com or join our Slack channel.
 
  - - - - - - -  # Thanks For Reading   . . . . . .  - - - - - - ![Logo](https://media0.giphy.com/media/KB8C86UMgLDThpt4WT/200w.webp?cid=ecf05e4725nesxeq5e582hqqmlzkcdodd1vc1kuhkejm7q97&ep=v1_gifs_search&rid=200w.webp&ct=g)
